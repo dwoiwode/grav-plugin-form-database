@@ -10,7 +10,7 @@ The **Form Database** Plugin is for [Grav CMS](http://github.com/getgrav/grav).
 ## Configuration
 
 ### General Settings
-Fill in the requires information in the `user/plugins/from-database/from-database.yaml` file, or use the Admin Template to make it in a GUI.
+Fill in the requires information in the `user/plugins/form-database/form-database.yaml` file, or use the Admin Template to make it in a GUI.
 So far only 
 ```
 enabled: true
